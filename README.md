@@ -1,2 +1,2 @@
 # potential-memory
-Hands-on SOC Home Lab architected in VMware Workstation. Integrated Windows Server telemetry with Splunk SIEM to build high-fidelity detection dashboards for brute-force attacks, privilege escalation, and lateral movement.
+ull-stack SOC Home Lab architected in VMware. Deployed and hardened an Ubuntu Splunk Enterprise server to ingest Windows telemetry. Simulated real-world attacks (Brute-Force, PowerShell exploits, Lateral Movement) to build and validate custom detection engineering and SOC dashboards.
